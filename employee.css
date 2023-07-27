@@ -65,6 +65,7 @@ section{
     margin-left: 20px;
     background-color: #03aeee;
     display: flex;
+    flex-direction: row;
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
 }
@@ -78,6 +79,11 @@ section{
     display: flex;
     margin-top: 15px;
     border-radius: 50%;
+}
+
+.text{
+    color: white;
+    margin: 25px;
 }
 
 .icon{
